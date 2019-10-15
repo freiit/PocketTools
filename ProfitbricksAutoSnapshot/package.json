@@ -16,6 +16,6 @@
     "co": "^4.6.0",
     "minimist": "^1.2.0",
     "sprintf-js": "^1.0.3",
-    "superagent": "^1.8.0"
+    "superagent": "^5.1.0"
   }
 }
